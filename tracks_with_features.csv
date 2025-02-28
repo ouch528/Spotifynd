@@ -1,9 +1,10 @@
 track_uri,album_name,album_uri,artist_name,artist_uri,duration_ms,pos,track_name,inside_playlists,deezer_id,preview_url,audio_filepath
-spotify:track:4pLwZjInHj3SimIyN9SnOz,Dangerous Woman,spotify:album:4lVR2fg3DAUQpGVJ6DciHW,Ariana Grande,spotify:artist:66CXWjxzNUsdJxJ2JdwvnR,226160,0,Side To Side,[584466 290613 339107 ... 932309 757216 867665],124995668,"https://cdnt-preview.dzcdn.net/api/1/1/7/e/8/0/7e8c23116649d041bac2f15f39bd7424.mp3?hdnea=exp=1740663156~acl=/api/1/1/7/e/8/0/7e8c23116649d041bac2f15f39bd7424.mp3*~data=user_id=0,application_id=42~hmac=d504114b321ed0b11c7d7eed013f159895c3056be7aa45e8b09355631ef63c0b",previews/Side To Side.mp3
-spotify:track:37f4ITSlgPX81ad2EvmVQr,Wildfire,spotify:album:0mFDIOqypzHp6Xd0el1hoT,Rachel Platten,spotify:artist:3QLIkT4rD2FMusaqmkepbq,204013,1,Fight Song,[584466 290613 540271 ... 535890 217688  26462],116705198,"https://cdnt-preview.dzcdn.net/api/1/1/d/5/d/0/d5d477fb73ed844b2235415f521f15d3.mp3?hdnea=exp=1740663158~acl=/api/1/1/d/5/d/0/d5d477fb73ed844b2235415f521f15d3.mp3*~data=user_id=0,application_id=42~hmac=660818bcf8856823a6e80284a92f0582ebe80fa0ea1f8609105f8397fbab4663",previews/Fight Song.mp3
-spotify:track:6i0V12jOa3mr6uu4WYhUBr,Heathens,spotify:album:3J8W9AOjQhnBLCX33m3atT,Twenty One Pilots,spotify:artist:3YQKmKGau1PzlVlkL1iodx,195920,2,Heathens,[584466 290613 339107 ... 349806 168239 932309],126884459,"https://cdnt-preview.dzcdn.net/api/1/1/8/6/8/0/8684b6d370f8e19eed27de357c3c4e89.mp3?hdnea=exp=1740663159~acl=/api/1/1/8/6/8/0/8684b6d370f8e19eed27de357c3c4e89.mp3*~data=user_id=0,application_id=42~hmac=17dbe3a9caff7c71151dfcab3c1774bb3cef1cd419b4ded4a75ed07be7818545",previews/Heathens.mp3
-spotify:track:2DpCdPMg1BADE4HDnxt3Rd,"Sit Still, Look Pretty",spotify:album:2cE2eOy7alOZHpuelJEV8Q,Daya,spotify:artist:6Dd3NScHWwnW6obMFbl1BH,202226,3,"Sit Still, Look Pretty",[584466 414677 809633 ...   6555 349244 395752],2825286042,"https://cdnt-preview.dzcdn.net/api/1/1/5/e/9/0/5e9ecbda214e4ef09adcb97515bc82be.mp3?hdnea=exp=1740663161~acl=/api/1/1/5/e/9/0/5e9ecbda214e4ef09adcb97515bc82be.mp3*~data=user_id=0,application_id=42~hmac=7b04f797a6262cb2ad5c51f353979da24a4c7eb91c1ece7c879c49bb0e384f22","previews/Sit Still, Look Pretty.mp3"
-spotify:track:6Knv6wdA0luoMUuuoYi2i1,MY HOUSE,spotify:album:5lkNnHVlnCCCV304t89wOH,Flo Rida,spotify:artist:0jnsk9HBra6NMjO2oANoPY,192190,4,My House,[584466 290613 968716 ... 257996 349976   6463],97786984,"https://cdnt-preview.dzcdn.net/api/1/1/9/0/2/0/902ed8780b0ca741ffaea889fd1e5c4f.mp3?hdnea=exp=1740663162~acl=/api/1/1/9/0/2/0/902ed8780b0ca741ffaea889fd1e5c4f.mp3*~data=user_id=0,application_id=42~hmac=03f68b22b4f966e3d7f563bc61bffe70f0895678407285840745ea4dbca0b151",previews/My House.mp3
+spotify:track:4pLwZjInHj3SimIyN9SnOz,Dangerous Woman,spotify:album:4lVR2fg3DAUQpGVJ6DciHW,Ariana Grande,spotify:artist:66CXWjxzNUsdJxJ2JdwvnR,226160,0,Side To Side,[584466 290613 339107 ... 932309 757216 867665],7255548,"https://cdnt-preview.dzcdn.net/api/1/1/9/b/9/0/9b9d55001f8b3ac9d9437777f038c23c.mp3?hdnea=exp=1740710323~acl=/api/1/1/9/b/9/0/9b9d55001f8b3ac9d9437777f038c23c.mp3*~data=user_id=0,application_id=42~hmac=ce229b39207e32d721c91b4cdea07fa36245d80327b14d29a647fc767ecd4ca0",previews/Side To Side.mp3
+spotify:track:37f4ITSlgPX81ad2EvmVQr,Wildfire,spotify:album:0mFDIOqypzHp6Xd0el1hoT,Rachel Platten,spotify:artist:3QLIkT4rD2FMusaqmkepbq,204013,1,Fight Song,[584466 290613 540271 ... 535890 217688  26462],846180822,"https://cdnt-preview.dzcdn.net/api/1/1/2/1/d/0/21d8d5e8a4675ce8e01fee98fd2f6c77.mp3?hdnea=exp=1740710324~acl=/api/1/1/2/1/d/0/21d8d5e8a4675ce8e01fee98fd2f6c77.mp3*~data=user_id=0,application_id=42~hmac=7d11b7d75b649e00535e7aa702599ca9ee104d4d2222dbbb0d4d8b25498e1f4f",previews/Fight Song.mp3
+spotify:track:6i0V12jOa3mr6uu4WYhUBr,Heathens,spotify:album:3J8W9AOjQhnBLCX33m3atT,Twenty One Pilots,spotify:artist:3YQKmKGau1PzlVlkL1iodx,195920,2,Heathens,[584466 290613 339107 ... 349806 168239 932309],2606555972,"https://cdnt-preview.dzcdn.net/api/1/1/7/9/6/0/7965f4696b3a703d4d47c708171efb41.mp3?hdnea=exp=1740710325~acl=/api/1/1/7/9/6/0/7965f4696b3a703d4d47c708171efb41.mp3*~data=user_id=0,application_id=42~hmac=a95eed4076bcb9c842ab112b8ceec35df5f51451a15ad761e5001e9041b5a57c",previews/Heathens.mp3
+spotify:track:2DpCdPMg1BADE4HDnxt3Rd,"Sit Still, Look Pretty",spotify:album:2cE2eOy7alOZHpuelJEV8Q,Daya,spotify:artist:6Dd3NScHWwnW6obMFbl1BH,202226,3,"Sit Still, Look Pretty",[584466 414677 809633 ...   6555 349244 395752],2825286042,"https://cdnt-preview.dzcdn.net/api/1/1/5/e/9/0/5e9ecbda214e4ef09adcb97515bc82be.mp3?hdnea=exp=1740710327~acl=/api/1/1/5/e/9/0/5e9ecbda214e4ef09adcb97515bc82be.mp3*~data=user_id=0,application_id=42~hmac=690fd45ccecf5fbe4ae4b59bc3058c25d95c6d323862e72973a216958f245913","previews/Sit Still, Look Pretty.mp3"
+spotify:track:6Knv6wdA0luoMUuuoYi2i1,MY HOUSE,spotify:album:5lkNnHVlnCCCV304t89wOH,Flo Rida,spotify:artist:0jnsk9HBra6NMjO2oANoPY,192190,4,My House,[584466 290613 968716 ... 257996 349976   6463],61076449,https://cdn-preview-b.dzcdn.net/stream/c-b381af27dcb3ce07c3b637712db97b5b-1.mp3,previews/My House.mp3
+spotify:track:4tCtwWceOPWzenK2HAIJSb,7/27,spotify:album:0pF0oyuPNdOObniB1Ng0kW,Fifth Harmony,spotify:artist:1l8Fu6IkuTP0U5QetQJ5Xt,214480,5,Work from Home,[584466 290613 923257 ... 168122 757216   8062],3590187,"https://cdnt-preview.dzcdn.net/api/1/1/6/c/3/0/6c3f95f0efc6f3eb04a1493c5048f425.mp3?hdnea=exp=1740710329~acl=/api/1/1/6/c/3/0/6c3f95f0efc6f3eb04a1493c5048f425.mp3*~data=user_id=0,application_id=42~hmac=8bc4e51f73d0ae42b4bbc78facf37713d3b7b3e718b9eeb1e0b2c581fda75fa6",previews/Work from Home.mp3
 spotify:track:30lgD1UuHczwlxa7NZFeSQ,Mountains Beaches Cities,spotify:album:1nInmRb5yL0VbKQ4XNJbl2,Moon Taxi,spotify:artist:5DK8eK7fjvRsziXzyr3sFA,208080,6,Morocco,"[584466 396717 740634 646153 994926 819229  33413 136022 819886 655245
  118612 317568 964045 852276 565227 845317 277722 912608 950601 646201
    8446 985454 122101 684087 512041 763727 221471 788931 928068 410989
@@ -96,7 +97,7 @@ spotify:track:30lgD1UuHczwlxa7NZFeSQ,Mountains Beaches Cities,spotify:album:1nIn
  120138 250551 955444 312715 497075 921443 703867 104967 815768 915157
  992565 238414 732323 954283 445361 738585 235369 901260 580439 689087
  182187 453090 485686 647500 121033 319733 412142 688295 411245  51535
- 764782]",510804802,"https://cdnt-preview.dzcdn.net/api/1/1/b/f/5/0/bf55bab3819ec9b2a29f1132f1de8262.mp3?hdnea=exp=1740663164~acl=/api/1/1/b/f/5/0/bf55bab3819ec9b2a29f1132f1de8262.mp3*~data=user_id=0,application_id=42~hmac=c58db44ce89235f8be8cff6a68b312f15b431be4c190bb4d1850b37d780c0868",previews/Morocco.mp3
+ 764782]",1733694227,"https://cdnt-preview.dzcdn.net/api/1/1/e/d/2/0/ed26e5a4dfa9ed945efc008bd8bb0200.mp3?hdnea=exp=1740710330~acl=/api/1/1/e/d/2/0/ed26e5a4dfa9ed945efc008bd8bb0200.mp3*~data=user_id=0,application_id=42~hmac=a5189290c70c52525631d95b3a8c227cbff42a33fec5d984302c9ad2853ee3d4",previews/Morocco.mp3
 spotify:track:4EAoAeIwUUvevkPLvhwTpx,Daybreaker,spotify:album:5hqGibvfAVIp9plqmnflCg,Moon Taxi,spotify:artist:5DK8eK7fjvRsziXzyr3sFA,213066,7,Make Your Mind Up,"[584466 740634 427675 646153  33413 981150  76612 564886 215288 786795
   22046 657650 396111 206604 484746 854518 295780 793264 335490 331728
  172054 827564 219712 163578 895628 367490 598551 399052 759924 804220
@@ -120,14 +121,107 @@ spotify:track:4EAoAeIwUUvevkPLvhwTpx,Daybreaker,spotify:album:5hqGibvfAVIp9plqmn
  676541 372833 859198 698316 102626 947277 621756 444085 555198 164332
  132803 956662 265708 205949 752400 165828 941770 267352 443850 542364
  223451 753614 111711 901275 135863 276076 815768  71492 941106 990807
- 976577 411245 349714 499737]",145608770,"https://cdnt-preview.dzcdn.net/api/1/1/2/2/3/0/2232de24774787f60c7f7c0a271f8e92.mp3?hdnea=exp=1740663166~acl=/api/1/1/2/2/3/0/2232de24774787f60c7f7c0a271f8e92.mp3*~data=user_id=0,application_id=42~hmac=7b8ad45933a2bd0c87301943fbba309648d706fbbf2542e7a7b83946adfc851e",previews/Make Your Mind Up.mp3
-spotify:track:7p3eVrTbD7Bt7ICjZVbLcg,Inside Out,spotify:album:14M5XlaHfn40ytNcPqr7BO,Kat Deluna,spotify:artist:0bOlhT8OcoC1lCpN69NcFP,227533,8,Unstoppable,[584466 528892  32086 713819 742159 755236],7473934,"https://cdnt-preview.dzcdn.net/api/1/1/0/1/d/0/01d8a4a003b5f413d886c6be6b0594a4.mp3?hdnea=exp=1740663168~acl=/api/1/1/0/1/d/0/01d8a4a003b5f413d886c6be6b0594a4.mp3*~data=user_id=0,application_id=42~hmac=df0cae7a30087bc1f8f0847316b5503ecb93f5dbbab17cbf21df38b4aa709a96",previews/Unstoppable.mp3
-spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,Closer,spotify:album:0rSLgV8p5FzfnqlEk4GzxE,The Chainsmokers,spotify:artist:69GGBxA162lTqCwzJG5jLp,244960,9,Closer,[584466 290613 339107 ... 257996   8062 692830],129310248,"https://cdnt-preview.dzcdn.net/api/1/1/0/d/6/0/0d63bac2a2dcdf064fc9987bf363cb76.mp3?hdnea=exp=1740663171~acl=/api/1/1/0/d/6/0/0d63bac2a2dcdf064fc9987bf363cb76.mp3*~data=user_id=0,application_id=42~hmac=8bc6b7e28aeffceddb96330aff58dd29654ec5332be38163e30d68bfdc89ec2e",previews/Closer.mp3
-spotify:track:7pxhKtuTwofDIdgHx2DcVK,Current Mood,spotify:album:23cuZhPWDfX1uKD4qwuv7t,Dustin Lynch,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS,194893,12,Seein' Red,[584466 666635 188017 ... 187385 764808 715218],398492102,"https://cdnt-preview.dzcdn.net/api/1/1/1/f/a/0/1faed71991d0e1829d1e2faa6282e624.mp3?hdnea=exp=1740663173~acl=/api/1/1/1/f/a/0/1faed71991d0e1829d1e2faa6282e624.mp3*~data=user_id=0,application_id=42~hmac=d9d8c472ae801e58b60536ab59773bfdd5703342e51851da58128a5d57deba78",previews/Seein' Red.mp3
-spotify:track:2Z8WuEywRWYTKe1NybPQEW,Blurryface,spotify:album:3cQO7jp5S9qLBoIVtbkSM1,Twenty One Pilots,spotify:artist:3YQKmKGau1PzlVlkL1iodx,214506,14,Ride,[584466 339107  79669 ...  45173 158408 932484],99976954,"https://cdnt-preview.dzcdn.net/api/1/1/5/2/e/0/52e21c003066ce59e61cfc33e5256836.mp3?hdnea=exp=1740663174~acl=/api/1/1/5/2/e/0/52e21c003066ce59e61cfc33e5256836.mp3*~data=user_id=0,application_id=42~hmac=3d2006e55f90c8169f0880c58d8d4701fb857b6a20bf4b40313b1aaba96c7476",previews/Ride.mp3
-spotify:track:1CnPYaKxTVb4LWOtiGOm0m,The Human Condition,spotify:album:2e8nzTZ0HtK94IifOWgN7o,Jon Bellion,spotify:artist:50JJSqHUf2RQ9xsHs0KMHg,217603,15,All Time Low,[584466 968716 148445 ... 715218 757216 158408],126368099,"https://cdnt-preview.dzcdn.net/api/1/1/5/7/7/0/577bd30478f766b8056b43835c01ca89.mp3?hdnea=exp=1740663176~acl=/api/1/1/5/7/7/0/577bd30478f766b8056b43835c01ca89.mp3*~data=user_id=0,application_id=42~hmac=2f5bfdfdd67d5c629155c70c127c8c2e4222f66d64456765d7f461dd1ac83817",previews/All Time Low.mp3
-spotify:track:7ElF5zxOwYP4qVSWVvse3W,The Rokstarr Hits Collection,spotify:album:0eGvq1J5Ke7VlLLOYIlY4k,Taio Cruz,spotify:artist:6MF9fzBmfXghAz953czmBC,201546,16,Break Your Heart,[584466 371876 968716 ... 804895  45988 781856],7063921,"https://cdnt-preview.dzcdn.net/api/1/1/3/9/a/0/39a20df364bda81530beaa04e4e76aad.mp3?hdnea=exp=1740663177~acl=/api/1/1/3/9/a/0/39a20df364bda81530beaa04e4e76aad.mp3*~data=user_id=0,application_id=42~hmac=5c2300824b897c8565c2bd45c82020684476cf1b314279607d46f94c3560103b",previews/Break Your Heart.mp3
-spotify:track:378iszndTZAR4dH8kwsLC6,This Is Acting,spotify:album:3Xz1Bcn4YP9bdqlsstMfuJ,Sia,spotify:artist:5WUlDfRSoLAfcVSX1WnrxN,224813,17,Cheap Thrills,[584466 377848  60386 ... 298483 159141 651362],118195184,"https://cdnt-preview.dzcdn.net/api/1/1/c/5/d/0/c5d797f05d5a161c2f9016c5e2f7472c.mp3?hdnea=exp=1740663178~acl=/api/1/1/c/5/d/0/c5d797f05d5a161c2f9016c5e2f7472c.mp3*~data=user_id=0,application_id=42~hmac=29c670073624a069916baf8f8cf59b3f1b9a70ee94764472408f44cb3075c7d8",previews/Cheap Thrills.mp3
+ 976577 411245 349714 499737]",1764283697,"https://cdnt-preview.dzcdn.net/api/1/1/a/5/0/0/a50bd00a143a2d42fee5e84a7fc74fd3.mp3?hdnea=exp=1740710331~acl=/api/1/1/a/5/0/0/a50bd00a143a2d42fee5e84a7fc74fd3.mp3*~data=user_id=0,application_id=42~hmac=992a5c09f42fd1dad9b6dadf2ff5b65e60f461c380f3c06c4dfa693884de5f87",previews/Make Your Mind Up.mp3
+spotify:track:7p3eVrTbD7Bt7ICjZVbLcg,Inside Out,spotify:album:14M5XlaHfn40ytNcPqr7BO,Kat Deluna,spotify:artist:0bOlhT8OcoC1lCpN69NcFP,227533,8,Unstoppable,[584466 528892  32086 713819 742159 755236],117292466,"https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10b2a47cba1f94a8f9e7dddb57ba68.mp3?hdnea=exp=1740710333~acl=/api/1/1/3/f/1/0/3f10b2a47cba1f94a8f9e7dddb57ba68.mp3*~data=user_id=0,application_id=42~hmac=5b8ba5dceaaacb2e1c5330c8379d52b26e9ea133672075489b4d38a0505731ca",previews/Unstoppable.mp3
+spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,Closer,spotify:album:0rSLgV8p5FzfnqlEk4GzxE,The Chainsmokers,spotify:artist:69GGBxA162lTqCwzJG5jLp,244960,9,Closer,[584466 290613 339107 ... 257996   8062 692830],1687606027,"https://cdnt-preview.dzcdn.net/api/1/1/6/a/3/0/6a3848604c6a9663e41f6d8cd7ee01f9.mp3?hdnea=exp=1740710334~acl=/api/1/1/6/a/3/0/6a3848604c6a9663e41f6d8cd7ee01f9.mp3*~data=user_id=0,application_id=42~hmac=fce5449d9066e1d3bcd0e62ce4e06cb58803b4e52036956b05f52b53fdf96d96",previews/Closer.mp3
+spotify:track:4nxgA1nvXvTkmsBY0vJV57,Road Less Traveled,spotify:album:296hswDnxvymjboFBxvmI5,Lauren Alaina,spotify:artist:1v3tdpIdBSW14rHUfiEVOv,216266,10,Road Less Traveled,"[584466 923431 236387 797196 628293 213046 689180 526023 757549 342049
+ 160230 466806 785332 906511 138695 849110 860466 789643  37722 904388
+ 660520 449879 127562 481470 215347 647896  18161 829612 483460 896971
+ 270912 296073 907239 357242 357242 187972 101718 681361 456073 739888
+ 861523 993156 509877 743892 746724 488581 158269 128526 206159 717812
+  57222 397453 595895 742502   3920 947287 453694 536631 536631 790929
+   3342 918293 769247  55709 358171 103597  45309 864158 829789 759204
+ 781591 627211 687746 392149 936027 936027 511064 215987 503643 131036
+  20870  84864 732422  65404 385064 877081 382634 868410 844414 528892
+ 802069  41114 982519 506433 181732 376540 792140 557650 245563 848601
+ 414905 766791 617829 808340 462667 845149 907151 455300  14917 829546
+ 937655   4926 599817 113498 141305 167032 202870 103383 243508 707525
+ 281140 183894 358804 295997 144595  34775 961070 517822 380956  58671
+ 905467 113098 130382 890274 295713 447743 131113 391372 623460 125787
+ 127777 840137 710370 840957 790289 132175 983902 190158  47681 851706
+ 677640 227590  71445 576894 923093 828717   3778 335672 872861  99156
+ 414807   8516  58412 185882 598805  40271 185185 777779 781452 907249
+ 409733 505254 545089 909981 424674  53013  78593 644789 253549  38107
+ 141180 804779 819415 807641 952953 745686 819927  42313   9683 878109
+ 778692 678089 468302 682909 842843 829691 106961 443521 674709 104917
+ 702230  85162   7308 626154 673831 153763 539417 539417  90779 112618
+ 741447 671729 148588 148588  88097 738571 624525 475293  78702 523614
+ 605712 126665 899829 167082 806689 718760 106233 752088 626813  22227
+ 308827 740312 174028  46035 472811 170542 717484 575946 870218 672572
+ 672572  22141 472162 874122  97600 399984 197403 105254 574646 948908
+ 940811  84588 744025 823620 961376 115490 588595 458417 120478 579133
+  93126 329725  32520 922064 173192 842369 748509 422597 372079 456624
+ 701714  54410 826588 776088 667044 721720 321288 680392  33897 287252
+  95794 802942 976331 784344 566967 629931 603140 133449 707200 807918
+ 451191 845236 854077 652361 138861 388891 733463  33170  33108 759609
+ 169943 604745  12704 265542 265930 996272 887625 183936 130961 685374
+ 731765 805445 599693 663812 956244 188523  11257  77165 749534 241614
+ 321555  97749 654353 195746 790992 744390 795743 536037 163788 397365
+ 345624 345789 721956 577423 577162 557584 990845  74952 672348 504021
+ 388598 174177 641872 641872 774718 581425 673497 746136 811306 269786
+ 755376 243506 564028 547636 892867 346223  41862 681832 115740 145927
+  10836  22503 825671 452436 722949 406408  26212 144918 642059 115999
+  94178 506980 931584 122718 787752 635470 576141 205733 766313  28216
+ 207291 526375  79473 597067 197035 457008 666326  43044 415475 239161
+ 417510 756378 187248 302368 158520 764731 973302 824684 472236  78120
+ 180425 815514 787304 732885 659357 529802 147325 509027 129759 966090
+ 109592 490309 113323 466833 527120  87128  87128 114606  39669 109180
+ 555209 311296  57950  57950  90861 189603 498788 498788  71204 134379
+ 789496  86554 707347 996068 831670 400038  53295 772100 598733 698934
+ 133008 686365 176681 685217 567541  30460  66094 606992 126844 759425
+ 730620 922125 378804 852338 887090 733686 972453 156848   4365  57432
+ 654023 428373 316049  68917 648286 795366 275582 201102 161049 355568
+ 991024 842124 361925 613588 235175 204425 295754 659623 698412 332251
+ 116524  21995  22039 935649 773457 327922 112817 955636   1096 740981
+ 796783 546721  45904 928342  59486 742735 488995 155993 775665 195299
+ 195299 182987 394153 374282 848127 627720 287456 287381 359849 167674
+ 573122  77144 163964  80285  90029 789519 126266 775000 452536 352274
+ 454614 566266 843484 703274 558885 330871 788756 100633 668153 413343
+  67842 260513 186999 757064 881571 379853 603071 311784 286013 829927
+ 935168  21738 179641 378682 982756 268845 655331 367315 758611 758611
+ 634873 700323 549112 760706 871728 894163 386004 386122 178410 178410
+  91250 226625  22986 544193 707808 461465 249064 576964 576964 716065
+ 716225 469343 843940   4629 262690 935968 438696 574632 937259 118714
+ 808875  77234 811629 905975 662044 796824 458520 343532 570967 979556
+ 880196 880995 483646 773769 770404 148608 790994 294111 440778 869807
+ 691992 691992 178310 861494 689453 385725 375204  27567 772630 770986
+ 786199 759887 880501 256880 702219 708702  25361  25050  49033   9323
+ 836556 153608 422869 293859 421561 720357 510404 839362 583046 173602
+  86319 499977 154859 439821 771398 733681  39774 493157 136603 508253
+ 620625 748782 525522  88585 981831 668814 914880  82908  82908 204807
+ 813500 711072 724743 955888  69275 495190 742305  11290 385257 469945
+ 669065 176579 441864 819061 109598 767829 323509 338735 715926  13238
+ 853125  39302 115053 243638 678752 545958 530341  59609 528084 398386
+ 441051 324757 333158 125932 899292 811210 697956 868036 684061 132734
+  98705 823136 254858  95390 933856 131134 783953 731046 752929 226909
+  68132 928913 907648 805144 793347 782682 735057 517614  29190  29190
+ 192596 728503 177203 113963 714760 392953 467264 808245  33630 759182
+ 867552  51883 717141 190265 190352  69627 299162 129626 282937 330880
+ 674196 273218 566160 857926 799556  92797 153628 800159 271302 817426
+ 939137 709892 562448 789292 132172 804925 297266 113470 113554  18172
+  13091 547286  26016  70748 140336 167694 662074 744760 297510 291577
+ 699452 699066 983064 528298 203346 752278 659116 659116 775827 719345
+ 845178 331167 789221 670596 789492 768178 681846 227928  84425 842822
+ 672790 555663 770501  44831  40888 909175 543812 126199 804725 777687
+ 458555 587819 214783  21155 337175 651111 247889  79048 309111 795068
+ 987604 113156 450524 811718 167819 555376  50410 910488 166926 583443
+ 818346 746992 280387 622337 622337 149160 926689 823857 580827  48648
+ 104010 796864 104271  35015 175445 693123 712953 164443 870477 197520
+ 804516  91038 785252 281077 281179 145406 714865 548771 122599 206073
+ 349400  34530 171006 484604 676255 111119 111595 441505 855176 558416
+   5362 600412 345766 983486 631597 869243 207212 127319  75777  84393
+ 797701 147610 753499  97926 450452 625949 801738 317515 549272   7150
+ 978036 921512 802769 766700 110627 160164 160164  77229 901337  56468
+  25025 214104 879949 649020 375469  21631 540192 111217 467650 427313
+ 103832 100740 779340 593266 433139 723923 667928 905059 253029 436502
+ 564461 804198 142431 715218]",104369214,"https://cdnt-preview.dzcdn.net/api/1/1/d/7/7/0/d773a13f4b0f19eefa57999b2cf2a32e.mp3?hdnea=exp=1740710335~acl=/api/1/1/d/7/7/0/d773a13f4b0f19eefa57999b2cf2a32e.mp3*~data=user_id=0,application_id=42~hmac=208a644b8edbe6fcf8d12f4e58631459cc073ad9ecc4e38305892f707efc69aa",previews/Road Less Traveled.mp3
+spotify:track:1oew3nFNY3vMacJAsvry0S,Let The Road,spotify:album:02ae5i5UAoFrt2peVox9Xd,Rixton,spotify:artist:0kkxsdcaWmWU2yWAqclDh4,193733,11,Me And My Broken Heart,[584466 347718 870496 ... 985295 411430 359943],446684912,"https://cdnt-preview.dzcdn.net/api/1/1/7/a/9/0/7a96913dde27745a622ac6e5c1a61cfd.mp3?hdnea=exp=1740710336~acl=/api/1/1/7/a/9/0/7a96913dde27745a622ac6e5c1a61cfd.mp3*~data=user_id=0,application_id=42~hmac=fb1c72ae68dd6f6f59471d656727b4980dc51e8f9dbf4326df0a4bcf1c0a4cf3",previews/Me And My Broken Heart.mp3
+spotify:track:7pxhKtuTwofDIdgHx2DcVK,Current Mood,spotify:album:23cuZhPWDfX1uKD4qwuv7t,Dustin Lynch,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS,194893,12,Seein' Red,[584466 666635 188017 ... 187385 764808 715218],879792612,"https://cdnt-preview.dzcdn.net/api/1/1/5/b/1/0/5b1246617060994b50e71b95f8be625f.mp3?hdnea=exp=1740710337~acl=/api/1/1/5/b/1/0/5b1246617060994b50e71b95f8be625f.mp3*~data=user_id=0,application_id=42~hmac=a71d047c87c0b34eb300f9b5ec27894017945fc6bc94f71c3ec6e8ab64e985ba",previews/Seein' Red.mp3
+spotify:track:6O6M7pJLABmfBRoGZMu76Y,The Chainsmokers- Japan Special Edition,spotify:album:3ShQFl9FladFKlonwPGZFc,The Chainsmokers,spotify:artist:69GGBxA162lTqCwzJG5jLp,225800,13,Roses,[584466 238421 772423 ...   8062 932484 837348],2493868421,"https://cdnt-preview.dzcdn.net/api/1/1/2/7/2/0/272087f4c6e3b106665372d8a95221c8.mp3?hdnea=exp=1740710338~acl=/api/1/1/2/7/2/0/272087f4c6e3b106665372d8a95221c8.mp3*~data=user_id=0,application_id=42~hmac=1e1c7effe683983d357f6b65921544a26d809cebcd1397cb97a385222823f338",previews/Roses.mp3
+spotify:track:2Z8WuEywRWYTKe1NybPQEW,Blurryface,spotify:album:3cQO7jp5S9qLBoIVtbkSM1,Twenty One Pilots,spotify:artist:3YQKmKGau1PzlVlkL1iodx,214506,14,Ride,[584466 339107  79669 ...  45173 158408 932484],2502159,"https://cdnt-preview.dzcdn.net/api/1/1/3/f/3/0/3f3961869817b43ac526f2cb07cd57f1.mp3?hdnea=exp=1740710340~acl=/api/1/1/3/f/3/0/3f3961869817b43ac526f2cb07cd57f1.mp3*~data=user_id=0,application_id=42~hmac=44bd02992f2d24cb01460cb2c969becafa081b888b801c821217d718a2b4e3ee",previews/Ride.mp3
+spotify:track:1CnPYaKxTVb4LWOtiGOm0m,The Human Condition,spotify:album:2e8nzTZ0HtK94IifOWgN7o,Jon Bellion,spotify:artist:50JJSqHUf2RQ9xsHs0KMHg,217603,15,All Time Low,[584466 968716 148445 ... 715218 757216 158408],60259321,"https://cdnt-preview.dzcdn.net/api/1/1/4/0/2/0/402d10c28d43bbedf2e845efc21b4e1c.mp3?hdnea=exp=1740710341~acl=/api/1/1/4/0/2/0/402d10c28d43bbedf2e845efc21b4e1c.mp3*~data=user_id=0,application_id=42~hmac=ecff6030b7e735921b8abdf8aaec8787b67f44b6622199b7b51aa789777b2bc0",previews/All Time Low.mp3
+spotify:track:7ElF5zxOwYP4qVSWVvse3W,The Rokstarr Hits Collection,spotify:album:0eGvq1J5Ke7VlLLOYIlY4k,Taio Cruz,spotify:artist:6MF9fzBmfXghAz953czmBC,201546,16,Break Your Heart,[584466 371876 968716 ... 804895  45988 781856],862098952,"https://cdnt-preview.dzcdn.net/api/1/1/3/6/5/0/3655e0fbbcedd1cdbc718688bb3442a7.mp3?hdnea=exp=1740710342~acl=/api/1/1/3/6/5/0/3655e0fbbcedd1cdbc718688bb3442a7.mp3*~data=user_id=0,application_id=42~hmac=a5ba3ece609ac50b2bca81475a71764b4ae4f15c3c026ccc3fd9515d1346cde3",previews/Break Your Heart.mp3
+spotify:track:378iszndTZAR4dH8kwsLC6,This Is Acting,spotify:album:3Xz1Bcn4YP9bdqlsstMfuJ,Sia,spotify:artist:5WUlDfRSoLAfcVSX1WnrxN,224813,17,Cheap Thrills,[584466 377848  60386 ... 298483 159141 651362],554320122,"https://cdnt-preview.dzcdn.net/api/1/1/5/2/0/0/520c1ac9141be87dd51541f21841420d.mp3?hdnea=exp=1740710343~acl=/api/1/1/5/2/0/0/520c1ac9141be87dd51541f21841420d.mp3*~data=user_id=0,application_id=42~hmac=c24e7480456e6076519cc37cd0c2003418148682ed4df7d78b4c21dd6a51bb93",previews/Cheap Thrills.mp3
 spotify:track:7oQ09pJGn75oy9MIvkINWi,Ryan Follese,spotify:album:2XMnHhm9i5oLz59O7Pkuip,Ryan Follese,spotify:artist:6KdRXEnkaZ5m5a6XcvWGP7,204706,18,Put A Label On It,"[584466 785332 994629 138695 325968 829612 660122 299415 309361  54368
  536631  45309 937881 278305 802069 186801 222185 569989 572405 604394
  183107 543147 494461 658274 194728 108781 756954 430633 723996  44639
@@ -155,9 +249,9 @@ spotify:track:7oQ09pJGn75oy9MIvkINWi,Ryan Follese,spotify:album:2XMnHhm9i5oLz59O
  587819 762581 794375 516609 702874 702874 684851 785252 103730 554141
  702411 618725 796392 287078 571611 591520 193735 263703 152036 699407
  489174 432747  56521 426048 126948 675041 459973 809798 600481 345110
- 952465 564461]",395889872,"https://cdnt-preview.dzcdn.net/api/1/1/6/9/3/0/693613dbe4fcf2ebfcab41fa9ef80a11.mp3?hdnea=exp=1740663180~acl=/api/1/1/6/9/3/0/693613dbe4fcf2ebfcab41fa9ef80a11.mp3*~data=user_id=0,application_id=42~hmac=66a1ee2a688118379c6e2dc675fe08a5f76ca3ba77acdee43c5eb8d04d2b3c17",previews/Put A Label On It.mp3
-spotify:track:6MdqqkQ8sSC0WB4i8PyRuQ,Another Level,spotify:album:2zGZLQiFl9UubtrVmtIkbi,Blackstreet,spotify:artist:2P3cjUru4H3fhSXXNxE9kA,304600,19,No Diggity,[584466 968716 335134 ... 125823 811537  51384],1483899752,"https://cdnt-preview.dzcdn.net/api/1/1/5/4/2/0/542413320e113230d9e205d17bb8bcc1.mp3?hdnea=exp=1740663181~acl=/api/1/1/5/4/2/0/542413320e113230d9e205d17bb8bcc1.mp3*~data=user_id=0,application_id=42~hmac=b56652d397665792eeda2c661b25fa40256792c0d13563792289d54d7c2787ac",previews/No Diggity.mp3
-spotify:track:4BHzQ9C00ceJxfG16AlNWb,25,spotify:album:0K4pIOOsfJ9lK8OjrZfXzd,Adele,spotify:artist:4dpARuHxo51G3z768sgnrY,223080,20,Send My Love (To Your New Lover),[584466 295176 854617 ... 202267 837244 867665],138545997,"https://cdnt-preview.dzcdn.net/api/1/1/6/f/d/0/6fde73b43e47761d51ecfde89d5b43bc.mp3?hdnea=exp=1740663182~acl=/api/1/1/6/f/d/0/6fde73b43e47761d51ecfde89d5b43bc.mp3*~data=user_id=0,application_id=42~hmac=60eee174ee5b42d1fe4c865acba56241118177c56adfb2fb8ff5d064ce1ba296",previews/Send My Love (To Your New Lover).mp3
+ 952465 564461]",1174452,"https://cdnt-preview.dzcdn.net/api/1/1/3/d/c/0/3dc9208d2e98497b6c7a176a731ccb58.mp3?hdnea=exp=1740710344~acl=/api/1/1/3/d/c/0/3dc9208d2e98497b6c7a176a731ccb58.mp3*~data=user_id=0,application_id=42~hmac=df90f3bb5ad7dd3965499963fdaaf9d4eb3ad2cf9e427a5e7a41190021afa7b6",previews/Put A Label On It.mp3
+spotify:track:6MdqqkQ8sSC0WB4i8PyRuQ,Another Level,spotify:album:2zGZLQiFl9UubtrVmtIkbi,Blackstreet,spotify:artist:2P3cjUru4H3fhSXXNxE9kA,304600,19,No Diggity,[584466 968716 335134 ... 125823 811537  51384],3000946421,"https://cdnt-preview.dzcdn.net/api/1/1/4/6/1/0/46110243cfd6409de147c9c66f9dbdb1.mp3?hdnea=exp=1740710345~acl=/api/1/1/4/6/1/0/46110243cfd6409de147c9c66f9dbdb1.mp3*~data=user_id=0,application_id=42~hmac=a0eb833c685210bacc817820122b381be70e71aeab51946e5b5246aae59048a3",previews/No Diggity.mp3
+spotify:track:4BHzQ9C00ceJxfG16AlNWb,25,spotify:album:0K4pIOOsfJ9lK8OjrZfXzd,Adele,spotify:artist:4dpARuHxo51G3z768sgnrY,223080,20,Send My Love (To Your New Lover),[584466 295176 854617 ... 202267 837244 867665],138545997,"https://cdnt-preview.dzcdn.net/api/1/1/6/f/d/0/6fde73b43e47761d51ecfde89d5b43bc.mp3?hdnea=exp=1740710347~acl=/api/1/1/6/f/d/0/6fde73b43e47761d51ecfde89d5b43bc.mp3*~data=user_id=0,application_id=42~hmac=363a81dcc29df6771f49475c7a4df56aacc54abb1585ccb76b63ee69666a5ad9",previews/Send My Love (To Your New Lover).mp3
 spotify:track:0xmtSOofR05Lu0ggb5lZ7X,Daybreaker,spotify:album:5hqGibvfAVIp9plqmnflCg,Moon Taxi,spotify:artist:5DK8eK7fjvRsziXzyr3sFA,210906,21,Red Hot Lights,"[584466 287290 740634 222029 608449 630078 484746 779016 952293 578655
  723369 793264 253513    722  87503 177634 804220 516621 305209 929342
  291509 349007 450082 478785 467752 803224 900059 476745 690311 116125
@@ -178,8 +272,9 @@ spotify:track:0xmtSOofR05Lu0ggb5lZ7X,Daybreaker,spotify:album:5hqGibvfAVIp9plqmn
  244275 178246  74146 140758 546221  38136 761364  41286 968409 665594
  102626 947277 621756 302217 944244 132803 137389 958067 265708 422674
  893048  23468 496635 328299 379521 928938 815768 732069 992912 901260
- 394875 485686 976577 499737]",145608778,"https://cdnt-preview.dzcdn.net/api/1/1/7/2/3/0/723e437df68d40de4062cada0db71408.mp3?hdnea=exp=1740663183~acl=/api/1/1/7/2/3/0/723e437df68d40de4062cada0db71408.mp3*~data=user_id=0,application_id=42~hmac=1a647e8055088afbb488ba71d5837abae9fd53d7c429b58bdc96d9eea97417a2",previews/Red Hot Lights.mp3
-spotify:track:5E5Nm2aqVgMJCJTLoNsHMK,Daybreaker,spotify:album:5hqGibvfAVIp9plqmnflCg,Moon Taxi,spotify:artist:5DK8eK7fjvRsziXzyr3sFA,214680,24,Domino,[584466 130087 831482 516621 901196  98010  97510 144143 976577],145608776,"https://cdnt-preview.dzcdn.net/api/1/1/c/9/8/0/c9804412db29ab37bf806f0f4d326463.mp3?hdnea=exp=1740663185~acl=/api/1/1/c/9/8/0/c9804412db29ab37bf806f0f4d326463.mp3*~data=user_id=0,application_id=42~hmac=7435f9c561133a59657d8dfaf5eac1d6a8728e4f57c8bddaf03019eb69f29cd2",previews/Domino.mp3
+ 394875 485686 976577 499737]",142136141,https://cdn-preview-d.dzcdn.net/stream/c-d298ae5437d4d30a57e57c8058612e5e-2.mp3,previews/Red Hot Lights.mp3
+spotify:track:1h2aXTmrgmJ6smdoUGQIPF,New Year's Eve 2015,spotify:album:3wbzFNGLz94sbvLJ0iUwJW,Moon Taxi,spotify:artist:5DK8eK7fjvRsziXzyr3sFA,252293,23,Year Zero - Live,[584466 568615 208966],629226132,https://cdn-preview-1.dzcdn.net/stream/c-15ec2afe14f68225aed78a8f145299b6-4.mp3,previews/Year Zero - Live.mp3
+spotify:track:5E5Nm2aqVgMJCJTLoNsHMK,Daybreaker,spotify:album:5hqGibvfAVIp9plqmnflCg,Moon Taxi,spotify:artist:5DK8eK7fjvRsziXzyr3sFA,214680,24,Domino,[584466 130087 831482 516621 901196  98010  97510 144143 976577],2188971727,"https://cdnt-preview.dzcdn.net/api/1/1/f/2/6/0/f26b7f2ad64bb2e9fa97e72a97753ac2.mp3?hdnea=exp=1740710352~acl=/api/1/1/f/2/6/0/f26b7f2ad64bb2e9fa97e72a97753ac2.mp3*~data=user_id=0,application_id=42~hmac=0864488688a42c7a9cce1f9865b95558a393b01101a307a9b0556a9943bb846c",previews/Domino.mp3
 spotify:track:0kr6d8wHDQPlzuET33NVn6,The Spirit Room,spotify:album:1agL7TUoZXr0Xd4Irievqi,Michelle Branch,spotify:artist:5rScKX1Sh1U67meeUyTGwk,217680,27,All You Wanted,"[584466 485181 332194 116786 516796  40437 323763 909652 995451 377994
  916149 728810  26674 444801 747034 635252 519669 591391 850206 332805
  196724 520884 782725 236459 802817 736950 736950 892467 888696 473983
@@ -206,7 +301,7 @@ spotify:track:0kr6d8wHDQPlzuET33NVn6,The Spirit Room,spotify:album:1agL7TUoZXr0X
  131436 474731  92110 574313 957629 708481 663971 951254 547492  82355
  641746 155207  23728 574445 595522 614330 510883 207359 539164 633286
  207167 882401 435489 949378 341937 921512 404769 844347 998753 570348
-  65005 245069 865146 445915  24696  23924 735021 243061 161160]",6639084,"https://cdnt-preview.dzcdn.net/api/1/1/e/4/8/0/e4837d7587c465c48bbebc7f65f24983.mp3?hdnea=exp=1740663187~acl=/api/1/1/e/4/8/0/e4837d7587c465c48bbebc7f65f24983.mp3*~data=user_id=0,application_id=42~hmac=907bc75bb4f28a103d6183db061700197e8d946c3ba70fa563fee2a950cf463d",previews/All You Wanted.mp3
+  65005 245069 865146 445915  24696  23924 735021 243061 161160]",3038315731,"https://cdnt-preview.dzcdn.net/api/1/1/c/a/d/0/cadd8dd4fea48410c6a24ba0d22e6ae0.mp3?hdnea=exp=1740710356~acl=/api/1/1/c/a/d/0/cadd8dd4fea48410c6a24ba0d22e6ae0.mp3*~data=user_id=0,application_id=42~hmac=f5f21cab6e8f0184101ff5275dbc3566741ed64751c3c25cf41b011fddeacc4b",previews/All You Wanted.mp3
 spotify:track:1u0l8zWpQeMYStFkc2mLD7,The Spirit Room,spotify:album:1agL7TUoZXr0Xd4Irievqi,Michelle Branch,spotify:artist:5rScKX1Sh1U67meeUyTGwk,214826,28,Everywhere,"[584466 485181 576418 332194 116786 123219 727850 975798 193449 135817
   40437 323763 304986 286784 152519  75256 111211 939856 377994 572676
  328917 728810 838712  26674 444801 747034  40280 591391 788679 836021
@@ -253,7 +348,7 @@ spotify:track:1u0l8zWpQeMYStFkc2mLD7,The Spirit Room,spotify:album:1agL7TUoZXr0X
  649884 900105 317775 207359  87191 633286 244762 989924 170262 170262
  171602 721180 921512 874588 126538 844347 998753 596551  65005  61273
  915089 245069 335874 106584 865146 445915  23924 735021  52461 159620
- 243061 161160 161160]",6639082,"https://cdnt-preview.dzcdn.net/api/1/1/9/f/0/0/9f05c88d9f717ec78ffcacb75f4d6b85.mp3?hdnea=exp=1740663188~acl=/api/1/1/9/f/0/0/9f05c88d9f717ec78ffcacb75f4d6b85.mp3*~data=user_id=0,application_id=42~hmac=c46096461865499a6a568aec59902304188b83aaaf40bda7a35305d2f0c0fe44",previews/Everywhere.mp3
+ 243061 161160 161160]",2000667587,"https://cdnt-preview.dzcdn.net/api/1/1/7/0/2/0/702f5809782b96ff5890e11fba18a425.mp3?hdnea=exp=1740710357~acl=/api/1/1/7/0/2/0/702f5809782b96ff5890e11fba18a425.mp3*~data=user_id=0,application_id=42~hmac=09b43725af545a6cfbe3e70ddf40e1fcc1d669266dda17f951b5c947ea87c2b1",previews/Everywhere.mp3
 spotify:track:2JpUkUR0OsOlUUfm6iS8ic,Release Therapy,spotify:album:77u9Ndnhi4raBZfnl22Jzg,Ludacris,spotify:artist:3ipn9JLAPI5GUEo4y4jcoi,230613,29,Money Maker,"[584466 661443 695600 456350  95462 489426 362061  12652 778130  69009
  802507 955591 707673  37655 644472 842442 905462 369235 960111 572136
  362570 289141 289287 775455 519239 753366 155298 964599 763679 802758
@@ -313,12 +408,12 @@ spotify:track:2JpUkUR0OsOlUUfm6iS8ic,Release Therapy,spotify:album:77u9Ndnhi4raB
  216853 267546 927186 967299 314102 866432 284743 263630 674427  80113
  465104 390340 746529 848946  35479 250932 251258  20213 425028 328572
  280242 575846 462922 934272 195573 704730 477447 419569  65302  61174
- 413173 145538  79402 825738 763415 527287 527287 524558 565557  77663]",1575902,"https://cdnt-preview.dzcdn.net/api/1/1/a/4/8/0/a48a14b03c564bc8ad4e7c2e2c888453.mp3?hdnea=exp=1740663189~acl=/api/1/1/a/4/8/0/a48a14b03c564bc8ad4e7c2e2c888453.mp3*~data=user_id=0,application_id=42~hmac=88408f58be50decb2e230b0d15c66b13bb2d7ec0a6473944eaa024c3aebc305d",previews/Money Maker.mp3
-spotify:track:7qiZfU4dY1lWllzX7mPBI3,÷,spotify:album:3T4tUhGYeRNVUGevb0wThu,Ed Sheeran,spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,233712,30,Shape of You,[584466 287290 290613 ... 797377 237080 158408],142986204,"https://cdnt-preview.dzcdn.net/api/1/1/f/1/b/0/f1becf66c6264a6a0306fc47d47690b0.mp3?hdnea=exp=1740663190~acl=/api/1/1/f/1/b/0/f1becf66c6264a6a0306fc47d47690b0.mp3*~data=user_id=0,application_id=42~hmac=490a896df001eb026c5a0779ec2a28344fcc6e7b0e7f3252e6e3571eb3afa9c2",previews/Shape of You.mp3
-spotify:track:7mldq42yDuxiUNn08nvzHO,Body Like A Back Road,spotify:album:2N7kidh1wA9EoLdf16QWrz,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,165386,31,Body Like A Back Road,[584466  48473 148445 ... 398219 715218   8062],141160791,"https://cdnt-preview.dzcdn.net/api/1/1/7/6/9/0/76965e803ffee7a210d73c7ff94fa0ff.mp3?hdnea=exp=1740663191~acl=/api/1/1/7/6/9/0/76965e803ffee7a210d73c7ff94fa0ff.mp3*~data=user_id=0,application_id=42~hmac=59cbfa969c5c02e9683149422e2339a1987b1c8975db9fd99eaefd4760e07dbf",previews/Body Like A Back Road.mp3
-spotify:track:5BbYPT6ehZf0hSv2su6JAl,Montevallo,spotify:album:1M0vpI6KG4y0RwRuQ8SQxT,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,225693,32,Make You Miss Me,[584466 232772 657714 ... 612012 867856 715218],615922822,"https://cdnt-preview.dzcdn.net/api/1/1/a/b/d/0/abd5a86e9f855e4a21fabf46c6297cc2.mp3?hdnea=exp=1740663193~acl=/api/1/1/a/b/d/0/abd5a86e9f855e4a21fabf46c6297cc2.mp3*~data=user_id=0,application_id=42~hmac=8b4bc365c44439d8427a4cf12181d45a1c032eab0191c2f5eb0386f6792269e7",previews/Make You Miss Me.mp3
-spotify:track:2N3F1EQCpnIeDOA3rLSAfE,Montevallo,spotify:album:1M0vpI6KG4y0RwRuQ8SQxT,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,229880,33,Break Up In A Small Town,[584466 124438 335195 ... 463831 612012 267465],615922792,"https://cdnt-preview.dzcdn.net/api/1/1/1/5/f/0/15f80b290bc01e07a66ba1798d6651fc.mp3?hdnea=exp=1740663194~acl=/api/1/1/1/5/f/0/15f80b290bc01e07a66ba1798d6651fc.mp3*~data=user_id=0,application_id=42~hmac=ae2107d31aeb8a7b4d87a9a90e0278d49f9ad508ca5160629afb0357274a2702",previews/Break Up In A Small Town.mp3
-spotify:track:7vWGeYZJUzBXKGPro05UXS,Montevallo,spotify:album:1M0vpI6KG4y0RwRuQ8SQxT,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,243706,34,Take Your Time,[584466 666635 124438 ... 804984 612394 612012],87936873,"https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4c3628d3640c6dd8ad57110bfe82a10.mp3?hdnea=exp=1740663195~acl=/api/1/1/a/4/c/0/a4c3628d3640c6dd8ad57110bfe82a10.mp3*~data=user_id=0,application_id=42~hmac=9ae0abef7b51bdd353443a0530d5c40c23a69956d2402be97d89d0b8192ef5ea",previews/Take Your Time.mp3
+ 413173 145538  79402 825738 763415 527287 527287 524558 565557  77663]",3214779321,"https://cdnt-preview.dzcdn.net/api/1/1/e/4/7/0/e4753432b5b749728d4656c354f2b424.mp3?hdnea=exp=1740710360~acl=/api/1/1/e/4/7/0/e4753432b5b749728d4656c354f2b424.mp3*~data=user_id=0,application_id=42~hmac=16bf1e12d76293f658140153f558377263acd8204e0b22b7929af461838064b8",previews/Money Maker.mp3
+spotify:track:7qiZfU4dY1lWllzX7mPBI3,÷,spotify:album:3T4tUhGYeRNVUGevb0wThu,Ed Sheeran,spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,233712,30,Shape of You,[584466 287290 290613 ... 797377 237080 158408],394766352,https://cdn-preview-e.dzcdn.net/stream/c-e25e7f36151d2b7ae0136e6005b405de-4.mp3,previews/Shape of You.mp3
+spotify:track:7mldq42yDuxiUNn08nvzHO,Body Like A Back Road,spotify:album:2N7kidh1wA9EoLdf16QWrz,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,165386,31,Body Like A Back Road,[584466  48473 148445 ... 398219 715218   8062],3251578381,"https://cdnt-preview.dzcdn.net/api/1/1/1/e/1/0/1e1380c1fbff87f70185f939e35356be.mp3?hdnea=exp=1740710366~acl=/api/1/1/1/e/1/0/1e1380c1fbff87f70185f939e35356be.mp3*~data=user_id=0,application_id=42~hmac=b94c736404e870c271e1aa95a7077e4efd6da9d035d0fc9dea257bed39ac0c41",previews/Body Like A Back Road.mp3
+spotify:track:5BbYPT6ehZf0hSv2su6JAl,Montevallo,spotify:album:1M0vpI6KG4y0RwRuQ8SQxT,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,225693,32,Make You Miss Me,[584466 232772 657714 ... 612012 867856 715218],113418500,"https://cdnt-preview.dzcdn.net/api/1/1/9/0/d/0/90d519b85ffa95029493e12946963257.mp3?hdnea=exp=1740710369~acl=/api/1/1/9/0/d/0/90d519b85ffa95029493e12946963257.mp3*~data=user_id=0,application_id=42~hmac=6b04c0773b898f9a4a4c349f9d07708ee3150d93efab709755f79b76818c5b71",previews/Make You Miss Me.mp3
+spotify:track:2N3F1EQCpnIeDOA3rLSAfE,Montevallo,spotify:album:1M0vpI6KG4y0RwRuQ8SQxT,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,229880,33,Break Up In A Small Town,[584466 124438 335195 ... 463831 612012 267465],104430398,"https://cdnt-preview.dzcdn.net/api/1/1/5/9/5/0/59517f8bfd3618c1ce3928935102ba1d.mp3?hdnea=exp=1740710371~acl=/api/1/1/5/9/5/0/59517f8bfd3618c1ce3928935102ba1d.mp3*~data=user_id=0,application_id=42~hmac=6b3e619ca6e5d49f407abab13042a6d561dc4cf15fd9baff877a74a709a7a926",previews/Break Up In A Small Town.mp3
+spotify:track:7vWGeYZJUzBXKGPro05UXS,Montevallo,spotify:album:1M0vpI6KG4y0RwRuQ8SQxT,Sam Hunt,spotify:artist:2kucQ9jQwuD8jWdtR9Ef38,243706,34,Take Your Time,[584466 666635 124438 ... 804984 612394 612012],68351390,"https://cdnt-preview.dzcdn.net/api/1/1/8/d/d/0/8dd9d097ea2a07ad740cbe08999c0c65.mp3?hdnea=exp=1740710374~acl=/api/1/1/8/d/d/0/8dd9d097ea2a07ad740cbe08999c0c65.mp3*~data=user_id=0,application_id=42~hmac=d05f514390e441084264385414b3289c3a7662d52ffe3f75bb1c7afa7db1645a",previews/Take Your Time.mp3
 spotify:track:1rVebRMIwmcKeKcEPc29Rw,Where It's At,spotify:album:4ZSQEnZOGWEW3XQOAzt477,Dustin Lynch,spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS,177040,35,All Night,"[584466 361388 197404 778569 185364 779360 558604 933310 165811 569989
  517822 831726 575109 398727 596920 829950 467792 126509 583515 470952
  819415 879429  98449 673953  72196 613801 361216 896093 577028 878576
@@ -329,17 +424,107 @@ spotify:track:1rVebRMIwmcKeKcEPc29Rw,Where It's At,spotify:album:4ZSQEnZOGWEW3XQ
  266472 745986 777501  16458  94506 549112 163912 808358 225117 461598
  253714 926822 475411 136603  99973 108734  35993 222823  35736 709356
  817963  59609 456847 760367 449995 789221 842906 658849 672174 636812
- 578172 388623 954152 335495 152036 823643 891734  11623 865359]",394753292,"https://cdnt-preview.dzcdn.net/api/1/1/c/0/8/0/c08302cddfb55487a309348f2ce229c0.mp3?hdnea=exp=1740663196~acl=/api/1/1/c/0/8/0/c08302cddfb55487a309348f2ce229c0.mp3*~data=user_id=0,application_id=42~hmac=3b2688c618d3b509bbdf925b5353275f4c64a0f9d5e0456e0c436f37f8b694de",previews/All Night.mp3
-spotify:track:6xHI9KjUjYT0FPtGO8Mxa1,This One's for You,spotify:album:1lhNch5NkOONvFhRPh8qaj,Luke Combs,spotify:artist:718COspgdWOnwOFpJHRZHS,222533,37,Hurricane,[584466 666635 703228 ... 418170  45448 158410],366449191,"https://cdnt-preview.dzcdn.net/api/1/1/b/c/9/0/bc9eea3849f8848e290f260f4814427e.mp3?hdnea=exp=1740663198~acl=/api/1/1/b/c/9/0/bc9eea3849f8848e290f260f4814427e.mp3*~data=user_id=0,application_id=42~hmac=42012eb6ce6f752a191f4e317cdc09c73326bb248359660267fc9f0bddb1a594",previews/Hurricane.mp3
-spotify:track:6DRsEO5yuEGBF87qpyMB4d,Brett Eldredge,spotify:album:1NUKNYLtePSiZnQj0QeZlo,Brett Eldredge,spotify:artist:0qSX3s5pJnAlSsgsCne8Cz,217333,38,Somethin' I'm Good At,[584466 124438 521658 ... 604467 524654 612394],388729701,"https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffd24962cba62dede109a5a3ebf11059.mp3?hdnea=exp=1740663199~acl=/api/1/1/f/f/d/0/ffd24962cba62dede109a5a3ebf11059.mp3*~data=user_id=0,application_id=42~hmac=e72867b8b39225073ca951aefde6813e6e726921bedb7c994110155f72eadcf4",previews/Somethin' I'm Good At.mp3
-spotify:track:3cfOd4CMv2snFaKAnMdnvK,Astro Lounge,spotify:album:2kyTLcEZe6nc1s6ve0zW9P,Smash Mouth,spotify:artist:2iEvnFsWxR0Syqu2JNopAd,200373,40,All Star,[584466 485181 335134 ... 867675 158408  45750],2176951,"https://cdnt-preview.dzcdn.net/api/1/1/8/2/6/0/826ddc4a677e4ee26de2943be43c353e.mp3?hdnea=exp=1740663201~acl=/api/1/1/8/2/6/0/826ddc4a677e4ee26de2943be43c353e.mp3*~data=user_id=0,application_id=42~hmac=f53f75e4a815e2025c78d2970235a8d1fde23d0b7f05d72014cfd4bf1cacb654",previews/All Star.mp3
-spotify:track:12qZHAeOyTf93YAWvGDTat,Enema Of The State,spotify:album:1fF8kYX49s5Ufv4XEY5sjW,blink-182,spotify:artist:6FBDaR13swtiWwGhX1WQsP,168000,42,All The Small Things,[584466 485181 892910 ... 932309 757216 257996],552496582,"https://cdnt-preview.dzcdn.net/api/1/1/1/4/7/0/1475414e3fd56174b8535099e0cb5489.mp3?hdnea=exp=1740663202~acl=/api/1/1/1/4/7/0/1475414e3fd56174b8535099e0cb5489.mp3*~data=user_id=0,application_id=42~hmac=1616de4e75cf7f05ad0bab8c08d4ce71ac23b32681126545bad7fd396ced72bb",previews/All The Small Things.mp3
-spotify:track:0KKkJNfGyhkQ5aFogxQAPU,24K Magic,spotify:album:4PgleR09JVnm3zY1fW3XBA,Bruno Mars,spotify:artist:0du5cEVh5yTK9QJze8zA0C,206693,43,That's What I Like,[584466 290613 968716 ... 176627 237080 158408],136336116,"https://cdnt-preview.dzcdn.net/api/1/1/c/d/b/0/cdb4a00d4b510d1c521c7b1e86731f76.mp3?hdnea=exp=1740663204~acl=/api/1/1/c/d/b/0/cdb4a00d4b510d1c521c7b1e86731f76.mp3*~data=user_id=0,application_id=42~hmac=def95c3ddac7b2882087c18cab8b5ce830f100e8bdbcdf37f5b576e163cc3fa6",previews/That's What I Like.mp3
-spotify:track:6PCUP3dWmTjcTtXY02oFdT,÷,spotify:album:3T4tUhGYeRNVUGevb0wThu,Ed Sheeran,spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,261153,44,Castle on the Hill,[584466 339107  66871 ... 867856 466511 715218],142986200,"https://cdnt-preview.dzcdn.net/api/1/1/4/3/a/0/43ab0be487dec7dffc2f8c76371d81e5.mp3?hdnea=exp=1740663205~acl=/api/1/1/4/3/a/0/43ab0be487dec7dffc2f8c76371d81e5.mp3*~data=user_id=0,application_id=42~hmac=a68decf4b6282c74a32a3bfc063978d2ff3e94bfdafb52ecc14de59f5ee370c6",previews/Castle on the Hill.mp3
-spotify:track:0OlS52TmtK2gPaEtdmr7DN,Happy Endings,spotify:album:66Y5XaoFSoa0A4P0u56s8V,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,176893,45,No Such Thing as a Broken Heart,[584466 124438 232772 ... 677060 715218 267465],395294312,"https://cdnt-preview.dzcdn.net/api/1/1/8/e/a/0/8ea5b10e41acd35db8b4182b404af580.mp3?hdnea=exp=1740663208~acl=/api/1/1/8/e/a/0/8ea5b10e41acd35db8b4182b404af580.mp3*~data=user_id=0,application_id=42~hmac=c5fc5bb076de45d07e45d192fce993e0cb507322ff1623d7dbeba5f2a85d9a8b",previews/No Such Thing as a Broken Heart.mp3
-spotify:track:7I5fYc4qKJddht8Ozhqqdx,Meat and Candy,spotify:album:1G4WDlYjm0VqgyEymNJRcf,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,206506,46,Snapback,[584466 124438 232772 ... 424009 612394 715218],111778162,"https://cdnt-preview.dzcdn.net/api/1/1/6/0/9/0/60962f2b56dd43046820813fb522cd13.mp3?hdnea=exp=1740663211~acl=/api/1/1/6/0/9/0/60962f2b56dd43046820813fb522cd13.mp3*~data=user_id=0,application_id=42~hmac=360dd5692a7034bd9c75b32b594fc95f460d240af88d1957540f41c63e1030c2",previews/Snapback.mp3
-spotify:track:5ZManJDV3CexO66nRCkdiV,Meat and Candy,spotify:album:1G4WDlYjm0VqgyEymNJRcf,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,207733,47,Break Up with Him,[584466 666635 124438 ... 804139 142431 267465],111778176,"https://cdnt-preview.dzcdn.net/api/1/1/b/d/d/0/bddf90291525702eba1e65e766d73302.mp3?hdnea=exp=1740663215~acl=/api/1/1/b/d/d/0/bddf90291525702eba1e65e766d73302.mp3*~data=user_id=0,application_id=42~hmac=98b7fc692139b14d5b8eb66753f351b5b039113d117e688b6dcc3ce1b6700653",previews/Break Up with Him.mp3
-spotify:track:7px4t7HGiuMUvFkEOpZEwp,Meat and Candy,spotify:album:1G4WDlYjm0VqgyEymNJRcf,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,191826,48,Song for Another Time,[584466 666635 124438 ... 142431 811579 612394],111778178,"https://cdnt-preview.dzcdn.net/api/1/1/c/7/0/0/c7040623cc6e432f4a46371d7d325284.mp3?hdnea=exp=1740663218~acl=/api/1/1/c/7/0/0/c7040623cc6e432f4a46371d7d325284.mp3*~data=user_id=0,application_id=42~hmac=a488daaefe62e7ef362303afb876c36fa448aecedb6f6c634170d9194abc65b7",previews/Song for Another Time.mp3
+ 578172 388623 954152 335495 152036 823643 891734  11623 865359]",3230854481,"https://cdnt-preview.dzcdn.net/api/1/1/5/4/d/0/54dec5d4d3bdc0b2f7e8ec04da27b120.mp3?hdnea=exp=1740710377~acl=/api/1/1/5/4/d/0/54dec5d4d3bdc0b2f7e8ec04da27b120.mp3*~data=user_id=0,application_id=42~hmac=8b2a15e4f8d13da4c24cd3ec5b90825b00013763442590a7992d2a5a322f414d",previews/All Night.mp3
+spotify:track:3J5zIZILfjaIXUefgCLPnB,The Way I Talk,spotify:album:1eGGsgRKw24qrefW5VL0is,Morgan Wallen,spotify:artist:4oUHIQIBe0LHzYfvXNW4QM,208240,36,The Way I Talk,"[584466  11900 211406  27236 236387 841818 646916 160230  31082 998366
+ 594826 904388 718125 788661  18342 322449 659032 603642 483460 907239
+ 925623 646201 309361  37296 717812 664062 439556 823606 830335 829789
+ 759204 558604 400397 226429 711276 131036  25708  84864 981243 329081
+ 775797 844414 914210 779122 738941 222652 824890 116072 980385 186801
+ 222185  11407 808340 765207 105006 700685   5197 125145 814748 602968
+   4926  79657 496690 809725 183894 791629 681613 686285 686285 945822
+ 110693 807047 719978 470306 905467 607192 489786 131113 739461  35493
+ 728668 782309 187894 391372  22105 938290 879343 671140 430633 569421
+ 367868 840137 126509  32708 735845  95290 132175  92405 969034  44664
+ 827852 867968  67804 851698 870707 923567 437255 335672 886134 238696
+ 662511 651839 414807 574905 185882 984820  88439 789549 440348 463664
+ 193924 409733 470952 505254 651407 524407  53013 455667 142532 294864
+ 506256  41932 425850 930611 549478 102444  86918 181501 798066  69471
+ 401623 988220 678089 856640 667782 205894 893122 727286  71854 311321
+ 829691 280834 106961 238504 768639 934762 901399  21481 374367 274077
+ 809320  34875 397850  90779 110622 917482 879429 872383 243067 258352
+ 736047 171093 834771 530915 718760 106233 209798 744866 106851 774716
+ 121581 170542 681061 379236 130679 613801 361216 575946  95150 870218
+ 797615 988842 988769 774831 105254 421072 853187 235533 339967 393891
+ 169931 255335 723242 746512 201165 825217 625012 574521 494859 616550
+ 939534 385746 767282 417168 605974 292947 754446 681588 149799 697375
+  35210   4190  74494 193270  30965 654066 181703 659173 222781  54410
+ 477099  18289 776088  98475  55440 125271 230135 689968  95794 784344
+ 754481 139503 645147 671905 513625  67106  85754  66953 380482 797585
+ 698334 155662 695364 632770 138861 204447 780652 166708 604127  33108
+ 141915 141638 269505 868922 269622 881158 353728 594233 976356 403647
+ 799166 650788 996272 129911 839173 737700 183655 805445 663812 214788
+ 165241  11411  55445 598256 721495 595916 218647 216012 142326  59720
+ 558222  96447 100478 413603 533599 885941 669915 686199 467959 393753
+ 267761 451116 215328 741819 274961 188750 672545  20506  83357 679615
+ 679615 365331 476289 673497 746136 101295 834842 422864 243506 243806
+ 346223 696361 574800  41862 471265 363336 696570 708361 408621 573754
+  49884 152203 642059 931584 950334 970309  32280 635122 885380 640554
+ 851822 699046 468364 294744 109804 207291 862169 137414 610577  82266
+ 538026 719029 869047 195453 693690 743874 404369 666360 771505 656686
+  91286  60264 831165 813095 960377 311687 991393 139371 754581  62727
+ 694404 847403 249559 800043 518552 424737 296197 109512 828947 300969
+ 994072 966373   7926 402177 758491 659357 736407 246922 934119 934649
+ 718136  56047 950357 133802 129759 694531 768865 575686 601186 129367
+ 843242 764482  87625 203938  39669  48998 844128 844292  35069 871942
+ 306744 593709 675078 877967 657095  70203 858363 698591 109464 130374
+ 759425 160924 121496 879975 554496 109655  57432 880652 426854 189012
+ 994624 428373 551819 484272 125605 842502 275582 741336 103231 355396
+  41454 507166 747657 152132 651450 235175 447908 786429  21710 184417
+ 339548 364347 219047 956198 568616  24957 955636 818889 291412 197501
+ 120135 666260 122360 809097 946137 783698 512589 150305 231290 182987
+ 969449 559697 657925 743623 838791 832043 359485 932572 338815 491657
+ 448854 933585 516915 817935 425219  81906 883038 508165 454614 532563
+ 740771 690163  52331 716462 324884 186999 184952 495610 328552 878672
+ 298460   2990 286013 829927 131460 112956  94506 196695  93811 916245
+ 378682 181255 721863 742975 241072 125082 549112 760706 940430  77140
+ 827984 386907  26716 178410 660668 294180 131621  34656 166501 774451
+ 452987 569459 520216 224373 153548   4288  83010  80767 737923 748136
+ 973245  81377 676453 461465 728101 772719 353669 843940   4629 687132
+ 344326 571498 724700 181217 392361 156824 845401 438696 837365 837788
+  88837 804494 190331 631573 684753 769291 769463 902521 678654 817024
+ 139392 337827 217200 113801 230592 590498 177515 675312 127899 874197
+ 525778 754324 869807 691992 382034 689453 744254 227229 375204 444792
+ 628130 109540 786199 677071 431954  34239 688803 921176 538184 451475
+   9323 929293 875180 720357  95019 839362 690935 289585 884543  86319
+ 499977 241973 107296 825771 887156 502466 792675 270732 620625   5217
+ 981831 718086  82908  95274 795305  89604 911590 761573 818894 862545
+  81113 672474 110584 795680 819061 898726 323509 115053 681122 656457
+ 417044 530341 679241  91094 150990 861169 441051 195628 195899 586299
+ 807438 899292  58716 811210 392240 105595 868054 654045  98405 533663
+ 124898 785038 721940 806153 131134 856722 186087 612612  12884 447802
+ 531029  68132  68681 181122 907648 274695 763748 957185 177360 964198
+ 392953 215728  33630 931823 838795 953444 931620 867955 377213 326002
+ 569030 660091  32720 387383 175851 682075 787667 674196 697920 969841
+  28651 273298 191761 366099  92797 748528 615359 709892  49152 297266
+ 118473 410464 757089  26016 755593 945694 576821 202947  89623 744760
+ 668535 241354 700032 771073 699066 147609 978267 707770 519073   4704
+ 162811 176128 882905 741213 693436 143103 836431 278784 539102 780170
+ 618665 789221 814739 324804 708020 504947 928269  59590 787349 246787
+ 117343 601706 713288 210845 672174 770501  44831  14793 379554  46472
+ 666351 687175 553149 721993 587819 762581 324051 917409 954152 415921
+  42509 167819 841360  58847  47929  68646  23705 777952 163851  94510
+ 608976 746992 245487 233029 926689 796864 104271 620594 140763  91038
+ 905175 149517  31872  50969 421378 521134 111119 155760 775814 670584
+ 520502 317684 256460 851349 665992 207212 796392  92515 797701  24310
+ 287078  60091 908775 827096 906316 906316 657543  71144 396536 756743
+ 943764 343627 229578 114006 317515 832919 152036 262918 699407 510312
+ 921282 745556 197625 911639 432747 311896 432319 426048  25025 303961
+ 747927 955968 542431 400441 459973 306570 809798 201206 201595  11623
+ 816002   7848 423341  28386 865359 479000 710168 423946 868169 872722
+ 117811 535668 709167 753610 976205 141002 952465 604467 436502 524654]",2271562,"https://cdnt-preview.dzcdn.net/api/1/1/1/2/5/0/125453127b6e81b346f246627034a822.mp3?hdnea=exp=1740710380~acl=/api/1/1/1/2/5/0/125453127b6e81b346f246627034a822.mp3*~data=user_id=0,application_id=42~hmac=8afb5115d7f9d05d57626632efd4830005a29e5ad318839d6998e59c7174943f",previews/The Way I Talk.mp3
+spotify:track:6xHI9KjUjYT0FPtGO8Mxa1,This One's for You,spotify:album:1lhNch5NkOONvFhRPh8qaj,Luke Combs,spotify:artist:718COspgdWOnwOFpJHRZHS,222533,37,Hurricane,[584466 666635 703228 ... 418170  45448 158410],3027318461,"https://cdnt-preview.dzcdn.net/api/1/1/2/5/c/0/25cf80e2c9d344eb3d38f1242eaae583.mp3?hdnea=exp=1740710382~acl=/api/1/1/2/5/c/0/25cf80e2c9d344eb3d38f1242eaae583.mp3*~data=user_id=0,application_id=42~hmac=fd1126cfb912c5c63a319f9780d6956756e9d0904c299ae860d3467d098db51c",previews/Hurricane.mp3
+spotify:track:6DRsEO5yuEGBF87qpyMB4d,Brett Eldredge,spotify:album:1NUKNYLtePSiZnQj0QeZlo,Brett Eldredge,spotify:artist:0qSX3s5pJnAlSsgsCne8Cz,217333,38,Somethin' I'm Good At,[584466 124438 521658 ... 604467 524654 612394],142748808,"https://cdnt-preview.dzcdn.net/api/1/1/c/4/b/0/c4b16b580b6953f644fcaa72cb21bd51.mp3?hdnea=exp=1740710385~acl=/api/1/1/c/4/b/0/c4b16b580b6953f644fcaa72cb21bd51.mp3*~data=user_id=0,application_id=42~hmac=cb0c3a118785b81452aafd7a057245760bc0edb74ea323ea2880a95ed169ba4c",previews/Somethin' I'm Good At.mp3
+spotify:track:1CI6YgwwNq3VfhgxPuEpE6,SoMo,spotify:album:3C1R7nVZwUrvb6RG4Bod5U,SoMo,spotify:artist:5AtWO8IEnjhRLzaVVQxFUs,289133,39,Ride,[584466 624775 295176 ... 547871 932132 547227],2502159,"https://cdnt-preview.dzcdn.net/api/1/1/3/f/3/0/3f3961869817b43ac526f2cb07cd57f1.mp3?hdnea=exp=1740710388~acl=/api/1/1/3/f/3/0/3f3961869817b43ac526f2cb07cd57f1.mp3*~data=user_id=0,application_id=42~hmac=8445e5fb0723bf68b7f10f3fe0a81b1ea4ab6286e99b71d7b39eaa69d7879a7d",previews/Ride.mp3
+spotify:track:3cfOd4CMv2snFaKAnMdnvK,Astro Lounge,spotify:album:2kyTLcEZe6nc1s6ve0zW9P,Smash Mouth,spotify:artist:2iEvnFsWxR0Syqu2JNopAd,200373,40,All Star,[584466 485181 335134 ... 867675 158408  45750],80859522,"https://cdnt-preview.dzcdn.net/api/1/1/0/a/d/0/0ad80b41fd9c77090a6a9bedd0e4c7ca.mp3?hdnea=exp=1740710389~acl=/api/1/1/0/a/d/0/0ad80b41fd9c77090a6a9bedd0e4c7ca.mp3*~data=user_id=0,application_id=42~hmac=fd7ba48e24d375f97aac925a2d68cfb2ff559b5b9d9aa95c19c222bb61708e27",previews/All Star.mp3
+spotify:track:4QSj6NAxencrwyKdjNnQx0,Europop,spotify:album:7wKWrF67f1991520a6B0mu,Eiffel 65,spotify:artist:64rxQRJsLgZwHHyWKB8fiF,388373,41,Blue (Da Ba Dee) - Extended Mix,"[584466 518733 304984 500652 213079 824140 803702  92419  94462 829828
+ 220007 150006 368914]",1102878662,"https://cdnt-preview.dzcdn.net/api/1/1/d/9/8/0/d98eba25dd0ad5c23e2e97da76e97450.mp3?hdnea=exp=1740710392~acl=/api/1/1/d/9/8/0/d98eba25dd0ad5c23e2e97da76e97450.mp3*~data=user_id=0,application_id=42~hmac=85a4f36de60b66ca4509bf579d4a288dd64494ff46487d61187675a55779e8f5",previews/Blue (Da Ba Dee) - Extended Mix.mp3
+spotify:track:12qZHAeOyTf93YAWvGDTat,Enema Of The State,spotify:album:1fF8kYX49s5Ufv4XEY5sjW,blink-182,spotify:artist:6FBDaR13swtiWwGhX1WQsP,168000,42,All The Small Things,[584466 485181 892910 ... 932309 757216 257996],62166743,"https://cdnt-preview.dzcdn.net/api/1/1/8/1/d/0/81d2f648f01528821b7d9afdc9175b9a.mp3?hdnea=exp=1740710395~acl=/api/1/1/8/1/d/0/81d2f648f01528821b7d9afdc9175b9a.mp3*~data=user_id=0,application_id=42~hmac=2cbbd63ea94fcd83ed97f217a37f3216b858771dfedddc8bef425cb0f9253779",previews/All The Small Things.mp3
+spotify:track:0KKkJNfGyhkQ5aFogxQAPU,24K Magic,spotify:album:4PgleR09JVnm3zY1fW3XBA,Bruno Mars,spotify:artist:0du5cEVh5yTK9QJze8zA0C,206693,43,That's What I Like,[584466 290613 968716 ... 176627 237080 158408],365406881,"https://cdnt-preview.dzcdn.net/api/1/1/7/d/c/0/7dc94642a2ed803ecabb3cdabfe00fd5.mp3?hdnea=exp=1740710397~acl=/api/1/1/7/d/c/0/7dc94642a2ed803ecabb3cdabfe00fd5.mp3*~data=user_id=0,application_id=42~hmac=acdb05f1cc04995b26b28595870e9748f3de11f6c6cc7f633ec6989d86f2bce0",previews/That's What I Like.mp3
+spotify:track:6PCUP3dWmTjcTtXY02oFdT,÷,spotify:album:3T4tUhGYeRNVUGevb0wThu,Ed Sheeran,spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,261153,44,Castle on the Hill,[584466 339107  66871 ... 867856 466511 715218],365406741,https://cdn-preview-6.dzcdn.net/stream/c-684866f0317c08561d5d05cf8b0164b8-5.mp3,previews/Castle on the Hill.mp3
+spotify:track:0OlS52TmtK2gPaEtdmr7DN,Happy Endings,spotify:album:66Y5XaoFSoa0A4P0u56s8V,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,176893,45,No Such Thing as a Broken Heart,[584466 124438 232772 ... 677060 715218 267465],2226820367,"https://cdnt-preview.dzcdn.net/api/1/1/6/f/c/0/6fced80743e8a7881cabb88d6c514a64.mp3?hdnea=exp=1740710402~acl=/api/1/1/6/f/c/0/6fced80743e8a7881cabb88d6c514a64.mp3*~data=user_id=0,application_id=42~hmac=8cb050344f6363553fb26ee0179ce299d66ddc61e95a9eb044094d69ee338872",previews/No Such Thing as a Broken Heart.mp3
+spotify:track:7I5fYc4qKJddht8Ozhqqdx,Meat and Candy,spotify:album:1G4WDlYjm0VqgyEymNJRcf,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,206506,46,Snapback,[584466 124438 232772 ... 424009 612394 715218],2226820457,"https://cdnt-preview.dzcdn.net/api/1/1/1/7/c/0/17ca755ec8dfb7e201351ab66a7bdff5.mp3?hdnea=exp=1740710405~acl=/api/1/1/1/7/c/0/17ca755ec8dfb7e201351ab66a7bdff5.mp3*~data=user_id=0,application_id=42~hmac=e2e978f854cbdb358429186e257b91167a4f77b5841eaa415cc5345487282358",previews/Snapback.mp3
+spotify:track:5ZManJDV3CexO66nRCkdiV,Meat and Candy,spotify:album:1G4WDlYjm0VqgyEymNJRcf,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,207733,47,Break Up with Him,[584466 666635 124438 ... 804139 142431 267465],2853373112,"https://cdnt-preview.dzcdn.net/api/1/1/5/a/f/0/5af775f84a2ed9b659eae4f122349094.mp3?hdnea=exp=1740710407~acl=/api/1/1/5/a/f/0/5af775f84a2ed9b659eae4f122349094.mp3*~data=user_id=0,application_id=42~hmac=ec7a0e77d411ef875023987b2618a9bf2813872b82c3d5881f94cef8310560b4",previews/Break Up with Him.mp3
+spotify:track:7px4t7HGiuMUvFkEOpZEwp,Meat and Candy,spotify:album:1G4WDlYjm0VqgyEymNJRcf,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,191826,48,Song for Another Time,[584466 666635 124438 ... 142431 811579 612394],2271563,"https://cdnt-preview.dzcdn.net/api/1/1/0/0/0/0/0009cabc4816aa3e3f10fa9e26bceace.mp3?hdnea=exp=1740710409~acl=/api/1/1/0/0/0/0/0009cabc4816aa3e3f10fa9e26bceace.mp3*~data=user_id=0,application_id=42~hmac=211d5ee5d3d1e9bfbefdf5cc7ad8ccb65100c56edb0952a0bf1ac702c525ed7b",previews/Song for Another Time.mp3
 spotify:track:5dTTvqEs42JMJv98b4SaoE,Meat and Candy,spotify:album:1G4WDlYjm0VqgyEymNJRcf,Old Dominion,spotify:artist:6y8XlgIV8BLlIg1tT1R10i,170800,49,Half Empty,"[584466 464312  61515 361388 994629 185344 775797 607386 830518  58310
  261873 569989  15957 119245 174090 957737 282251  55218  32375 662511
  753828 356278   8112 599230 356898 187433 819415 425850 698686 151423
@@ -358,4 +543,4 @@ spotify:track:5dTTvqEs42JMJv98b4SaoE,Meat and Candy,spotify:album:1G4WDlYjm0Vqgy
  664664 669476 609894 683972 786109 420373 453584 373565 726660 159541
  769669 519073 717601 278784 683724 808617 514339 200342 708115 846405
  153966 777952 127480 802667 277340  60221 661247 229578 823643 510312
- 900988 184701 475495]",111778164,"https://cdnt-preview.dzcdn.net/api/1/1/4/2/9/0/42930752c4a0b96e4f5ef53765b93706.mp3?hdnea=exp=1740663222~acl=/api/1/1/4/2/9/0/42930752c4a0b96e4f5ef53765b93706.mp3*~data=user_id=0,application_id=42~hmac=e5af42d1382fc13cc641c8e0f75b091171f977218980394706c6556eb8f6e57f",previews/Half Empty.mp3
+ 900988 184701 475495]",3242460961,"https://cdnt-preview.dzcdn.net/api/1/1/3/5/6/0/35654fba4b5caed272ef864926910680.mp3?hdnea=exp=1740710412~acl=/api/1/1/3/5/6/0/35654fba4b5caed272ef864926910680.mp3*~data=user_id=0,application_id=42~hmac=5e696457b08b9251a0d7ebf301317604886072412a813dc778ffcaaf8009aa0e",previews/Half Empty.mp3
