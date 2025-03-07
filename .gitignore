@@ -3,3 +3,5 @@ spotify_million_playlist_dataset_challenge
 .env
 .cache
 .DS_Store
+node_modules
+.venv
