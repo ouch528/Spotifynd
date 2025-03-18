@@ -6,3 +6,4 @@ node_modules
 .venv
 myenv
 phase2_data_cleaning/cleaned dataset
+cleaned dataset/track_cleaned.parquet
