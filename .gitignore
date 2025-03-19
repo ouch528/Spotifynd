@@ -7,3 +7,4 @@ node_modules
 myenv
 phase2_data_cleaning/cleaned dataset
 cleaned dataset/track_cleaned.parquet
+.DS_Store
