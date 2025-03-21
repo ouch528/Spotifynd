@@ -8,3 +8,5 @@ myenv
 phase2_data_cleaning/cleaned dataset
 cleaned dataset/track_cleaned.parquet
 .DS_Store
+phase3_feature_engineering/scores/genre_scores.csv
+phase3_feature_engineering/scores/genre_scores.csv
