@@ -2,6 +2,11 @@ spotify_million_playlist_dataset
 spotify_million_playlist_dataset_challenge
 .env
 .cache
-.DS_Store
 node_modules
 .venv
+myenv
+phase2_data_cleaning/cleaned dataset
+cleaned dataset/track_cleaned.parquet
+.DS_Store
+phase3_feature_engineering/scores/genre_scores.csv
+phase3_feature_engineering/scores/genre_scores.csv
