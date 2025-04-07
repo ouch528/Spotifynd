@@ -10,3 +10,4 @@ cleaned dataset/track_cleaned.parquet
 .DS_Store
 phase3_feature_engineering/scores/genre_scores.csv
 phase3_feature_engineering/scores/genre_scores.csv
+final_source_codes/track_cleaned.parquet
