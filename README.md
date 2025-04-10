@@ -3,7 +3,7 @@
 Machine Learning-Powered Song Recommendation System to enhance and complete playlists by intelligently recommending tracks that match style, mood, and theme.
 
 
-## 📁 Project Structure
+## Required Datasets for each Notebook & Remarks
 
 The following table outlines the sequence of notebooks used in this project, along with their input/output datasets and relevant remarks:
 
