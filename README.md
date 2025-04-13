@@ -25,4 +25,7 @@ The following table outlines the sequence of notebooks used in this project, alo
 | `step_8b_hybrid_model_final_analysis.ipynb`  | `final_recommendations.csv`                                                       | -                                                                                                     | -                                                                                                                                           |
 
 ## To Run the Notebooks
+The Google drive containing the link can be found here: <br>
+https://drive.google.com/drive/folders/1f7CDILck9l_GlDWCamvcv2yV-VO0899L?usp=sharing
+
 The code to mount the Google Drive is in the second cell of every notebook. Please adjust the BASE_DIR or DATA_PATH accordingly to your own Google Drive Path.
