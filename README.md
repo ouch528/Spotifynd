@@ -29,3 +29,15 @@ The Google drive containing the link can be found here: <br>
 https://drive.google.com/drive/folders/1f7CDILck9l_GlDWCamvcv2yV-VO0899L?usp=sharing
 
 The code to mount the Google Drive is in the second cell of every notebook. Please adjust the BASE_DIR or DATA_PATH accordingly to your own Google Drive Path.
+
+## Flow of Notebooks
+The steps follows the order of the notebook, as described by the name of the notebook. 
+
+Elaborations for notebooks from Step 6 onwards: <br>
+`step_6a_base_models_development.ipynb` : Development of the base models (Content-Based Model, Collaborative Filtering) <br>
+`step_6b_base_models_analysis.ipynb`: Level 1, 2, 3 Analysis of the base models, experiments and comparison within clusters <br>
+`step_7a_hybrid_model_basic_development.ipynb`: Development of the hybrid model (Content-Based Model & Collaborative Filtering) <br>
+`step_7b_hybrid_model_basic_analysis.ipynb`: Level 4, 5 Analysis of the hybrid model and comparison within clusters <br>
+`step_7c_hybrid_model_econometrics_analysis.ipynb`: Econometrics analysis of the results <br>
+`step_8a_hybrid_model_final_development.ipynb`: Level 6 Final development of the hybrid model with specific weights for each cluster <br>
+`step_8b_hybrid_model_final_analysis.ipynb`: Final interpretation of the results
